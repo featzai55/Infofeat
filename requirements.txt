@@ -1,3 +1,3 @@
 python-telegram-bot==13.1
-Wikipedia 
-requests
+Wikipedia==1.4.0
+requests==2.25.1
